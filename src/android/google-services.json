@@ -1,3 +1,39 @@
 {
-
+  "project_info": {
+    "project_number": "241036433505",
+    "project_id": "dev-app-entel-pe",
+    "storage_bucket": "dev-app-entel-pe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241036433505:android:6ad16ff0f2eab343f53220",
+        "android_client_info": {
+          "package_name": "com.entel.movil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241036433505-q9rv6o64fp1g0hu2er3oh47m0d0q9r5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0TFB2O23RjOLASF3N-NTDvwrqkPeZq5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241036433505-q9rv6o64fp1g0hu2er3oh47m0d0q9r5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
